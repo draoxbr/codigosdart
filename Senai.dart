@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main(){
   double nota = 3.5;
